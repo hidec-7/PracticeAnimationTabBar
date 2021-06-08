@@ -1,0 +1,6 @@
+framework module Pods_PracticeAnimationTabBar {
+  umbrella header "Pods-PracticeAnimationTabBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

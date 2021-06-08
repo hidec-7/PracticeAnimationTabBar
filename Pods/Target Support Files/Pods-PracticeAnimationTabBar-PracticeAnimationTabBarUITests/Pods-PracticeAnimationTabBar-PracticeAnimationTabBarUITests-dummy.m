@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_PracticeAnimationTabBar_PracticeAnimationTabBarUITests : NSObject
+@end
+@implementation PodsDummy_Pods_PracticeAnimationTabBar_PracticeAnimationTabBarUITests
+@end
